@@ -371,6 +371,13 @@ td, th{
     font-size: 0.98rem;
     color: rgba(255, 255, 255, 0.50);
 }
+.text-description{
+    font-size: 1rem;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.5);
+    margin-bottom: 13px;
+    text-align: center;
+}
 .tra-1{
     background-image: url(../images/trainer1.png);
     border-radius: 1rem;
@@ -420,7 +427,20 @@ td, th{
     background-size: cover;
     width: 20.4rem;
     height: 17rem;
-
+}
+.section-name{
+    font-size: 48px;
+    font-weight: 700px;
+    color: white;
+    text-align: center;
+}
+.section-head{
+    margin-top: 100px;
+}
+.video{
+    height: 31.25rem;
+    width: 56.25rem;
+    margin-right: 18.75rem;
 }
 footer{ 
     background-color: rgba(255, 255, 255, 0.1); 
