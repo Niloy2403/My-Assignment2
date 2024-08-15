@@ -438,8 +438,8 @@ td, th{
     margin-top: 100px;
 }
 .video{
-    height: 31.25rem;
-    width: 56.25rem;
+    height: auto;
+    width: auto;
     margin-right: 18.75rem;
 }
 footer{ 
